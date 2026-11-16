@@ -1,5 +1,5 @@
-# LCPaper
-Lithium and Carpet paper (collision and fast entity optimizations)
+# AOP (Actually Optimized Paper)
+Lithium and Carpet on paper (collision and fast entity optimizations) and soon to be more!
 
 
 Literally the title, optimized paper, first REAL optimization for paper that does ANYTHING? shocker... before GTA 6 too.
